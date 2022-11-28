@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 73ddc401893182349ab24016f68747ec
+  - enabled: 1
+    path: Assets/Scenes/Opening cutscene.unity
+    guid: af4fc51bf58cfb94a9d71f67b5b09baa
+  - enabled: 1
+    path: Assets/Scenes/cutscene1_take2.unity
+    guid: 726eca3d5f75fa5449790b7fc331370d
+  - enabled: 1
+    path: Assets/Scenes/cutscene1_take3.unity
+    guid: c4c9bfe919677394cb6597dfcdbff10d
+  - enabled: 1
+    path: Assets/Scenes/cutscene1_take4.unity
+    guid: 6912ad12e77009c4fb3ec285428e2729
+  - enabled: 1
+    path: Assets/Scenes/OpeningCutsceneInst.unity
+    guid: ed6cd78b37c04214f86a0e8513350a0d
+  - enabled: 1
+    path: Assets/Scenes/houseRoomMain.unity
+    guid: d62e9066f13e3544dae62a8c384cc7ad
+  - enabled: 1
+    path: Assets/Scenes/room1.unity
+    guid: 75ebc9dd980aab944b2a21d089c87b9c
+  - enabled: 1
+    path: Assets/Scenes/newRoom2.unity
+    guid: 2cde2e554afb9d14ba201eb4ad265e59
+  - enabled: 1
+    path: Assets/Scenes/newRoom3.unity
+    guid: 7e997a924f225554f84344259d3802c3
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: a9dfdb906f3ec5e419a9f4be4a6c69a0
+  - enabled: 1
+    path: Assets/Scenes/EndCutsceneLose.unity
+    guid: 1c4c14af1c519524b90dc219d2a0f97c
+  - enabled: 1
+    path: Assets/Scenes/EndCutsceneLose2.unity
+    guid: 2e16d954258cf67479de94e98a339755
+  - enabled: 1
+    path: Assets/Scenes/EndCutsceneWin.unity
+    guid: e1090209d2edd744395b26227c38698d
+  - enabled: 1
+    path: Assets/Scenes/EndCutsceneWin2.unity
+    guid: df0918d7c277b904bb513dad9db25796
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 45d2efeff4c60b64988e83adb0e0e40d
+  - enabled: 1
+    path: Assets/Scenes/MidCutscene.unity
+    guid: 8658d843351ae2142b912529e5b8c416
+  - enabled: 1
+    path: Assets/Scenes/MidCutsceneInst.unity
+    guid: 192cacfeb35b7fe4c8e12c4467e5cdbd
+  m_configObjects: {}
